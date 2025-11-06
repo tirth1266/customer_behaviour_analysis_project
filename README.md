@@ -138,6 +138,7 @@ Discounts significantly influence product sales, especially in specific categori
 Shipping type impacts purchase behaviour (Express users spend more)
 
 🚀 How to Run the Project
+
 ✅ 1. Clone the Repository
 git clone https://github.com/yourusername/customer-behavior-analysis.git
 cd customer-behavior-analysis
